@@ -1,2 +1,4 @@
 print("hello_world");
 print("hello_everybody");
+print("Hello my name is Kirill");
+print("Metallica");
